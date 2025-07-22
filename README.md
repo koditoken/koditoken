@@ -32,3 +32,22 @@ Frontend (dApp)    : React.js, TailwindCSS, Web3.js
 Backend            : Node.js, Express  
 Design             : Figma, Illustrator  
 CI/CD              : GitHub Actions, Netlify, Vercel
+
+
+### 📂 Featured Repositories
+Project	Description
+koditoken.com	Official project website
+Kodi Smart Contracts	Verified BEP-20 smart contract
+KodiCast Platform	dApp for content and creator tools
+Docs	Documentation and tokenomics breakdown
+
+
+### 🌐 Connect with Us
+
+    🔗 Website: koditoken.com
+
+    🐦 Twitter: @KodiToken
+
+    💬 Telegram: Join Community
+
+    📧 Email: info@koditoken.com
