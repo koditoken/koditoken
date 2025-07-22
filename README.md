@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamal Khan</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">Founder of KODI Token | Blockchain Enthusiast | Building decentralized media innovation</h3>
 
 ---
